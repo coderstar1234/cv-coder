@@ -17,7 +17,7 @@
 <h1 align="center"><i> Description:-</i></h1>
 
 - Provide a detailed description of your project, its purpose, and any other relevant information.
-<br>
+<hr>
 <h1 align="center"><i>Demo:-</i></h1>
 
 Include a link to a live demo of your project or provide instructions on how to see it in action.
