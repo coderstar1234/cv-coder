@@ -2,7 +2,7 @@
 
 <h2 align="center"><b>A brief description of your project.:-</b></h2>
 
-## Table of Contents
+<h1 align="center"><i>Table of Contents:-</i></h1>
 
 - [Description](#description)
 - [Demo](#demo)
