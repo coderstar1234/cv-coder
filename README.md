@@ -16,7 +16,7 @@
 
 <h1 align="center"><i> Description:-</i></h1>
 
-Provide a detailed description of your project, its purpose, and any other relevant information.
+- Provide a detailed description of your project, its purpose, and any other relevant information.
 
 <h1 align="center"><i>Demo:-</i></h1>
 
