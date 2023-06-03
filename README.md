@@ -26,7 +26,7 @@ Include a link to a live demo of your project or provide instructions on how to 
 
 List the technologies and frameworks used in your project.
 
-## Features
+<h1 align="center"><i>Features:-</i></h1>
 
 Highlight the main features and functionalities of your project.
 
