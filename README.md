@@ -29,7 +29,7 @@ List the technologies and frameworks used in your project.
 <h1 align="center"><i>Features:-</i></h1>
 
 Highlight the main features and functionalities of your project.
-
+<hr>
 ## Installation
 
 Provide step-by-step instructions on how to install and set up your project locally. Include any dependencies that need to be installed and how to run the application.
