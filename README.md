@@ -24,8 +24,8 @@
 <hr>
 <h1 align="center"><i> Technologies Used:-</i></h1>
 
-List the technologies and frameworks used in your project.
-
+- List the technologies and frameworks used in your project.
+<hr>
 <h1 align="center"><i>Features:-</i></h1>
 
 Highlight the main features and functionalities of your project.
