@@ -22,7 +22,7 @@
 
 Include a link to a live demo of your project or provide instructions on how to see it in action.
 
-## Technologies Used
+<h1 align="center"><i> Technologies Used:-</i></h1>
 
 List the technologies and frameworks used in your project.
 
