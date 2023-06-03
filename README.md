@@ -28,7 +28,7 @@
 <hr>
 <h1 align="center"><i>Features:-</i></h1>
 
-Highlight the main features and functionalities of your project.
+- Highlight the main features and functionalities of your project.
 <hr>
 ## Installation
 
