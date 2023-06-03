@@ -20,7 +20,7 @@
 <hr>
 <h1 align="center"><i>Demo:-</i></h1>
 
-Include a link to a live demo of your project or provide instructions on how to see it in action.
+- Include a link to a live demo of your project or provide instructions on how to see it in action.
 <hr>
 <h1 align="center"><i> Technologies Used:-</i></h1>
 
