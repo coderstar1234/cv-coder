@@ -1,6 +1,6 @@
 <h1 align="center"><i> Project Title⚔️:-</i></h1>
 
-<h2 align="center"><b>A brief description of your project.:-</b></h2>
+<h2 align="center"><b>A brief description of your project📝.:-</b></h2>
 
 <h1 align="center"><i>Table of Contents:-</i></h1>
 
