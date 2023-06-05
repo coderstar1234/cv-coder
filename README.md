@@ -38,8 +38,7 @@ Provide step-by-step instructions on how to install and set up your project loca
 
 Explain how to use your project, including any necessary commands or configurations. Provide examples and code snippets if applicable.
 <hr>
-
-## Contributing
+<h1 align="center"><i>Contributing:-</i></h1>
 
 Specify how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or pull requests.
 
