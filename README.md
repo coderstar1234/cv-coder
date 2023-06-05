@@ -30,7 +30,7 @@
 
 - Highlight the main features and functionalities of your project.
 <hr>
-<h1 align="center"><i>Installation-</i></h1>
+<h1 align="center"><i>Installation:-</i></h1>
 
 Provide step-by-step instructions on how to install and set up your project locally. Include any dependencies that need to be installed and how to run the application.
 
