@@ -37,6 +37,7 @@ Provide step-by-step instructions on how to install and set up your project loca
 <h1 align="center"><i>Usage:-</i></h1>
 
 Explain how to use your project, including any necessary commands or configurations. Provide examples and code snippets if applicable.
+<hr>
 
 ## Contributing
 
