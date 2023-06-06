@@ -46,6 +46,6 @@ Specify how others can contribute to your project. Include guidelines for submit
 Indicate the license under which your project is distributed. Include any relevant disclaimers or notices.
 
 
-<h1 align="center"><i>FContact-</i></h1>
+<h1 align="center"><i>Contact-</i></h1>
 
 Provide your contact information so that users can reach out to you with questions or feedback. You can include your email address, social media handles, or a link to your personal website.
