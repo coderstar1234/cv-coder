@@ -43,9 +43,10 @@ Explain how to use your project, including any necessary commands or configurati
 Specify how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or pull requests.
 <h1 align="center"><i>FLicense:-</i></h1>
 
-Indicate the license under which your project is distributed. Include any relevant disclaimers or notices.
+- Indicate the license under which your project is distributed.
+-  Include any relevant disclaimers or notices.
 
-
+<hr>
 <h1 align="center"><i>Contact:-</i></h1>
 
 - Provide your contact information so that users can reach out to you with questions or feedback. 
