@@ -32,7 +32,7 @@
 <hr>
 <h1 align="center"><i>Installation⏳:-</i></h1>
 
-- Provide step-by-step instructions on how to install and set up your project locally. 
+- Provide step-by-step instructions on how to install 🔑and set up your project locally. 
 - Include any dependencies that need to be installed and how to run the application.
 <hr>
 <h1 align="center"><i>Usage👋:-</i></h1>
